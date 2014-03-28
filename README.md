@@ -27,4 +27,4 @@ global distributors and partners to push open hardware movement.<br>
 
 
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Air_Quality_Test_Box)](https://github.com/igrigorik/ga-beacon)
+[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/TravellingMine)](https://github.com/igrigorik/ga-beacon)
