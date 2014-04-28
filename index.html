@@ -4,31 +4,31 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
         <title>Wifi Password Generator</title>
     </head>
-    <style>  
-    html,body{  
-        margin:0px;  
-        height:100%;  
-    }  
-    #screen{  
-        width:100%;  
-        height:100%;  
-        MARGIN: 0px auto;  
-        background-color:black;  
+    <style>
+    html,body{
+        margin:0px;
+        height:100%;
+    }
+    #screen{
+        width:100%;
+        height:100%;
+        MARGIN: 0px auto;
+        background-color:black;
         text-align:center;
-        vertical-align:middle;    
-    }  
+        vertical-align:middle;
+    }
 
     .dark {
         background: black;
      }
-    </style> 
+    </style>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <SCRIPT type="text/javascript">
 
     var bg = 1;
-    var dhigh= 100 ;
+    var dhigh= 200 ;
     var d0 = 100;
-    var d1 = 200 ;
+    var d1 = 250 ;
     var delays = new Array();
     /*delays.push(1000);
     delays.push(1000);
@@ -36,7 +36,7 @@
     delays.push(100);
     delays.push(100);
     delays.push(100);*/
-    
+
 
     function light()
     {
@@ -65,7 +65,7 @@
             dark();
             $("#go").val("Send");
         }
-        
+
     }
     function send()
     {
@@ -109,7 +109,7 @@
             {
                 delays.push(d0);
             }
-            
+
         });
         delays.push(2000);
 
@@ -131,9 +131,9 @@
     }
 
     </SCRIPT>
-    
+
     <body>
-    
+
     <div id="screen">
         <form>
         <input id="password" type="text"  style="width:50%;height:100px;font-size: 5em" />
