@@ -1,7 +1,7 @@
 Travelling Mine
 ----------------
 
-A travel trunk with 微信, follow its 微信， follow its travel. 
+A travel trunk with WeChat(微信), follow its WeChat(微信)， follow its travel. 
 
 
 
